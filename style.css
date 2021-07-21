@@ -30,3 +30,22 @@ body{
 .nav-head i{
    font-size: 50px;
 }
+
+/* Header */
+.header{
+   text-align: center;
+   color: #0a014f;
+   font-weight: 600;
+   display: block;
+   margin: auto;
+   width: 90%;
+   max-width: 600px;
+   padding-bottom: 1rem;
+   font-size: 20px;
+}
+.img-minion{
+   width: 50%;
+   max-width: 400px;
+   display: block;
+   margin: auto;
+}
