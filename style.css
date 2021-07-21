@@ -49,3 +49,18 @@ body{
    display: block;
    margin: auto;
 }
+
+/* TextArea */
+#textArea{
+   background-color: #ccba87;
+   border: #66263f 2px solid;
+   display: block;
+   width: 80%;
+   max-width: 600px;
+   height: 20vh;
+   margin: auto;
+   border-radius: 20px;
+   text-align: center;
+   padding: 1rem;
+   font-size: 15px;
+}
