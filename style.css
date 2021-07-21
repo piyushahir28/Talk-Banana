@@ -64,3 +64,19 @@ body{
    padding: 1rem;
    font-size: 15px;
 }
+
+/* Button */
+.div-btn{
+   text-align: center;
+}
+#btn-click{
+   background-color: #66263f;
+   color: #FFD55E;
+   font-size: larger;
+   font-weight: 900;
+   width: 20px;
+   padding: 0.5rem 2rem;
+   border-radius: 20px;
+   margin-bottom: 1rem;
+   width: auto; 
+}
