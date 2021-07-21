@@ -80,3 +80,25 @@ body{
    margin-bottom: 1rem;
    width: auto; 
 }
+
+/* Output */
+.head-opt{
+   color: #66263f;
+   font-weight: 600;
+   display: block;
+   margin: auto;
+   max-width: fit-content;
+   padding-bottom: 1rem;
+}
+#div-opt{
+   border: #66263f 3px solid;
+   border-radius: 20px;
+   display: block;
+   width: 80%;
+   max-width: 600px;
+   height: 20vh;
+   margin: auto;
+   text-align: center;
+   padding: 1rem;
+   font-size: 15px;
+}
