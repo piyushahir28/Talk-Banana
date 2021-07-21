@@ -8,3 +8,25 @@ body{
    margin: 0px;
    background-color: #ccba87 ;
 }
+
+/* Navigation Bar CSS */
+.navbar{
+   color: #66263f;
+   border-bottom: 3px solid #66263f;
+   padding: 1rem;
+   margin-bottom: 2rem;
+}
+.navbar .nav-head{
+   font-size: 30px;
+   font-weight: bolder;
+   text-align:center;
+   padding-left: 2rem;
+}
+.nav-head a{
+   text-decoration: none;
+   color: #66263f;
+   float: right;
+}
+.nav-head i{
+   font-size: 50px;
+}
