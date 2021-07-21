@@ -40,7 +40,7 @@ body{
    margin: auto;
    width: 90%;
    max-width: 600px;
-   padding-bottom: 1rem;
+   padding-bottom: 2rem;
    font-size: 20px;
 }
 .img-minion{
@@ -101,4 +101,35 @@ body{
    text-align: center;
    padding: 1rem;
    font-size: 15px;
+}
+
+/* Footer */
+.footer{
+   margin-top: 3rem;
+   padding-top: 0rem;
+   border-top: 3px solid #66263f;
+}
+
+.footer div{
+   color: #66263f;
+   text-align: center;
+}
+
+.footer p{
+   font-size: 20px;
+   font-weight: 600;
+}
+
+.footer a{
+   padding-inline: 2rem;
+   font-size: 45px;
+   color: #66263f;
+   text-decoration: none;
+}
+
+.footer .with-para{
+   padding-inline: 0rem;
+   font-size: 20px;
+   color: #66263f;
+   text-decoration: none;
 }
