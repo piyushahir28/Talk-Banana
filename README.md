@@ -1,2 +1,22 @@
-# Talk-Banana
-A translation app to convert english to banana language. Minions speak in banana language in Animated movie Despicable me.
+<h1 align="center">Talk- Banana</h1>
+
+Talk- Banana is a translation app to convert English to the banana language, created using a [funtranslations.com](https://funtranslations.com/minion) API. Minions speak in the banana language in the animated movie Despicable Me.
+
+<br>
+
+![](images/readme.png)
+
+### Tech Stack:
+
+* HTML5
+* CSS
+* Javascript
+
+### Get the latest version of the project:
+
+```bash
+$ git clone https://github.com/piyushahir28/Talk-Banana.git
+$ code Talk-BAnana
+```
+
+#### Link to the [Web App](https://talkbanana-piyushahir28.netlify.app/)
