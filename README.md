@@ -16,7 +16,7 @@ Talk- Banana is a translation app to convert English to the banana language, cre
 
 ```bash
 $ git clone https://github.com/piyushahir28/Talk-Banana.git
-$ code Talk-BAnana
+$ code Talk-Banana
 ```
 
 #### Link to the [Web App](https://talkbanana-piyushahir28.netlify.app/)
